@@ -5,10 +5,8 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<h1 align="center">🦋</h1>
-
   <h2 align="center">
-    UNet Diffusion Model
+    MNIST Diffusion Model
   </h2>
 </div>
 
@@ -18,7 +16,7 @@
 ## About The Project
 <div>
 <div align="center">
-    <img src="images/generated_images.png" alt="Logo" width="600">
+    <img src="images/model_predictions.png" alt="Logo" width="600">
 
 </div>
 
@@ -27,10 +25,10 @@
 
 
 Basic UNet diffusion pipeline implemented in PyTorch<br/>
-Based upon the [Intro to Diffusion notebook by Huggingface](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/01_introduction_to_diffusers.ipynb#scrollTo=pxI6aqVnHe10), trained on the [Sithsonian butteryfly images dataset](https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset).
+Based upon the [Intro to Diffusion notebook by Huggingface](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb#scrollTo=6MW0xsLGNrXL), trained on the MNIST dataset.
 <br/>
 
-After training, model can generate images of butterflies from random noise.
+
 
 
 </div>
