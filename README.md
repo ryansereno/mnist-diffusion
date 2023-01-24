@@ -16,7 +16,7 @@
 ## About The Project
 <div>
 <div align="center">
-    <img src="images/model_predictions.png" alt="Logo" width="600">
+    <img src="images/model_predictions.jpg" alt="Logo" width="500">
 
 </div>
 
